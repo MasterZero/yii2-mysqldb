@@ -1,0 +1,13 @@
+{
+    "name": "masterzero/yii2-mysqldb",
+    "description": "Cumstom Yii classes to db working.",
+    "version": "v0.0.1",
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "masterzero\\db\\": ""
+        }
+    }
+}
